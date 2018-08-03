@@ -4,12 +4,13 @@ import com.kokoloko.coffee.beans.Bean;
 
 public class RoastMachine {
     Bean bean;
+
     public RoastMachine(Bean bean) {
         this.bean = bean;
     }
 
     public void Roast() {
-
+        bean.roast();
     }
 
     public Bean getBean() {

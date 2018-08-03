@@ -5,15 +5,16 @@ import com.kokoloko.coffee.ground.Ground;
 
 public class Grinder {
     private Bean bean;
-    private double weight;
+    private double amount;
 
-    public Grinder(Bean bean, double weight) {
+    public Grinder(Bean bean, double amount) {
         this.bean = bean;
-        this.weight = weight;
+        this.amount = amount;
     }
 
-    public Ground grind() {
+    public Ground grind(double granularity) {
         Ground ground = new Ground(bean);
+        ground.setGranularity(granularity);
         return ground;
     }
 }
