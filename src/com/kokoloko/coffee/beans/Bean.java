@@ -6,4 +6,5 @@ public interface Bean {
     public void grind(double granularity);
     public boolean isGround();
     public void roast();
+    public double getFlavor();
 }
