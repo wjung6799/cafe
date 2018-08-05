@@ -1,7 +1,7 @@
 package com.kokoloko.Exception;
 
 public class BeanNotGroundException extends IllegalArgumentException{
-    BeanNotGroundException(String message) {
+    public BeanNotGroundException(String message) {
         super(message);
     }
 }
