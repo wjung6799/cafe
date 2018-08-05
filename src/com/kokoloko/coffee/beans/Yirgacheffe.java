@@ -3,6 +3,7 @@ package com.kokoloko.coffee.beans;
 public class Yirgacheffe implements Bean {
     private static final double FLAVOR = 100.0;
     private double roastness;
+    private boolean isGround;
 
     @Override
     public String getRoastType() {
@@ -20,6 +21,16 @@ public class Yirgacheffe implements Bean {
     @Override
     public String getKind() {
         return "Yirgacheffe";
+    }
+
+    @Override
+    public void grind() {
+        isGround = true;
+    }
+
+    @Override
+    public boolean isGround() {
+        return isGround;
     }
 
     @Override

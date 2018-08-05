@@ -5,11 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java" afterPath="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java" />
       <change beforePath="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java" afterPath="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java" afterPath="$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java" afterPath="$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java" />
       <change beforePath="$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java" afterPath="$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/kokoloko/machine/Roaster/RoastMachine.java" afterPath="$PROJECT_DIR$/src/com/kokoloko/machine/Roaster/RoastMachine.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,26 +22,9 @@
       <file leaf-file-name="Grinder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ground.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,8 +32,8 @@
       <file leaf-file-name="Bean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,33 +52,62 @@
       <file leaf-file-name="Yirgacheffe.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="594">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MakeCoffee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MakeCoffee.java">
+      <file leaf-file-name="EspressoMachine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanNotGroundException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kokoloko/Exception/BeanNotGroundException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IllegalArgumentException.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/IllegalArgumentException.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EspressoMachine.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java">
+      <file leaf-file-name="Milk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kokoloko/milk/Milk.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -135,8 +145,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -155,22 +167,22 @@
         <option value="$PROJECT_DIR$/src/com/kokoloko/machine/Grinder.java" />
         <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Roast.java" />
         <option value="$PROJECT_DIR$/src/MakeCoffee.java" />
-        <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java" />
-        <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java" />
         <option value="$PROJECT_DIR$/src/com/kokoloko/machine/Roaster/RoastMachine.java" />
         <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/BeanInventory.java" />
-        <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java" />
-        <option value="$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java" />
         <option value="$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java" />
+        <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java" />
+        <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java" />
+        <option value="$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java" />
+        <option value="$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java" />
+        <option value="$PROJECT_DIR$/src/com/kokoloko/milk/Milk.java" />
         <option value="$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java" />
+        <option value="$PROJECT_DIR$/src/com/kokoloko/Exception/BeanNotGroundException.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="93" />
-    <option name="y" value="-4" />
-    <option name="width" value="1857" />
-    <option name="height" value="1092" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -190,6 +202,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -214,14 +229,6 @@
               <item name="cafe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kokoloko" type="462c0819:PsiDirectoryNode" />
-              <item name="coffee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cafe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cafe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kokoloko" type="462c0819:PsiDirectoryNode" />
-              <item name="coffee" type="462c0819:PsiDirectoryNode" />
               <item name="beans" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,8 +236,7 @@
               <item name="cafe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kokoloko" type="462c0819:PsiDirectoryNode" />
-              <item name="coffee" type="462c0819:PsiDirectoryNode" />
-              <item name="ground" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cafe" type="b2602c69:ProjectViewProjectNode" />
@@ -247,21 +253,10 @@
               <item name="machine" type="462c0819:PsiDirectoryNode" />
               <item name="Grinder" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cafe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cafe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kokoloko" type="462c0819:PsiDirectoryNode" />
-              <item name="machine" type="462c0819:PsiDirectoryNode" />
-              <item name="Roaster" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,7 +372,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25815368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26091763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -400,33 +395,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="36">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -441,13 +429,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MakeCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Roaster/RoastMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/BrewMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Roast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="67" lean-forward="false" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -502,9 +577,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -515,13 +588,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java" />
     <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -548,10 +615,14 @@
         <state relative-caret-position="85">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -567,9 +638,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -589,69 +658,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Roast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="67" lean-forward="false" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/BeanInventory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/EspressoMachine01.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/asd.java" />
     <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/BrewMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/BeanInventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/GrindSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,37 +685,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/EspressoMachine01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="324">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/asd.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Roast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="67" lean-forward="false" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Yirgacheffe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/beans/Bean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Grinder/Grinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/milk/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/IllegalArgumentException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kokoloko/Exception/BeanNotGroundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

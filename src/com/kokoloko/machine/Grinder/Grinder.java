@@ -1,7 +1,6 @@
 package com.kokoloko.machine.Grinder;
 
 import com.kokoloko.coffee.beans.Bean;
-import com.kokoloko.coffee.ground.Ground;
 
 public class Grinder {
     private Bean bean;
@@ -12,9 +11,8 @@ public class Grinder {
         this.amount = amount;
     }
 
-    public Ground grind(double granularity) {
-        Ground ground = new Ground(bean);
-        ground.setGranularity(granularity);
-        return ground;
+    public Bean grind(double granularity) {
+        bean.grind(granularity);
+        return bean;
     }
 }
