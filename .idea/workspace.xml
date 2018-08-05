@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03ccf472-609a-40c8-a87e-fc9d1bfb443f" name="Default" comment="" />
+    <list default="true" id="03ccf472-609a-40c8-a87e-fc9d1bfb443f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,11 +88,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ground.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ground.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding>
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -121,23 +136,6 @@
             <state relative-caret-position="54">
               <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoastMachine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kokoloko/machine/Roaster/RoastMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/com/kokoloko/milk/Milk.java" />
         <option value="$PROJECT_DIR$/src/com/kokoloko/machine/EspressoMachine.java" />
         <option value="$PROJECT_DIR$/src/com/kokoloko/Exception/BeanNotGroundException.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -409,7 +408,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -793,7 +794,18 @@
     <entry file="file://$PROJECT_DIR$/src/com/kokoloko/coffee/ground/Ground.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
           <folding />
         </state>
       </provider>
