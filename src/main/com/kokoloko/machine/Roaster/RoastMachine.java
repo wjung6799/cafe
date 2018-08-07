@@ -9,7 +9,7 @@ public class RoastMachine {
         this.bean = bean;
     }
 
-    public void Roast() {
+    public void roast() {
         bean.roast();
     }
 
